@@ -1,0 +1,157 @@
+# PROMPT PARA GENERAR MATERIAL COMERCIAL MULTIMEDIA
+## Personalizador de Viajes para Agencias
+
+Actúa como un experto en marketing digital y diseño gráfico especializado en el sector turístico. Necesito que generes material comercial completo para un software B2B dirigido específicamente a agencias de viaje.
+
+## CONTEXTO DEL PRODUCTO
+
+**Producto:** Personalizador de Viajes con IA
+**Funcionalidad principal:** Genera itinerarios de viaje personalizados automáticamente usando inteligencia artificial
+**Características clave:**
+- Formulario simple: destino, fechas, presupuesto, preferencias
+- Generación automática de itinerarios detallados
+- Verificación de lugares reales con Google Places
+- Integración con datos climáticos
+- Mapas interactivos
+- Análisis de sentimiento de lugares
+- Panel de administración para gestionar clientes
+- Sistema de usuarios y roles
+
+## PÚBLICO OBJETIVO ESPECÍFICO
+
+**Target:** Agencias de viaje tradicionales (NO turistas individuales)
+**Perfil del decisor:**
+- Propietarios o gerentes de agencias de viaje
+- Edad: 35-55 años
+- Empresas familiares o PyMEs
+- 1-20 empleados
+- Facturación anual: €100K-€2M
+- Tecnología: Nivel básico-intermedio
+- Ubicación: España, mercado hispanohablante
+
+**Pain points que resuelve:**
+- Crear itinerarios toma 2-4 horas por cliente
+- Dificultad para personalizar según presupuesto
+- Competencia con agencias online
+- Necesidad de diferenciarse
+- Presión por reducir costos operativos
+- Clientes cada vez más exigentes
+
+## PROPUESTA DE VALOR
+
+**Beneficio principal:** Reduce de 4 horas a 15 minutos la creación de itinerarios personalizados
+**ROI:** 500% de retorno (ahorro €600/mes vs costo €99/mes)
+**Diferenciación:** Itinerarios más detallados y profesionales que la competencia
+
+## ESTRUCTURA DE PRECIOS
+
+- **Básico:** €99/mes (hasta 50 itinerarios)
+- **Pro:** €199/mes (hasta 200 itinerarios)  
+- **Enterprise:** €399/mes (ilimitado)
+- **Prueba gratuita:** 30 días sin compromiso
+
+## MATERIAL A GENERAR
+
+### 1. PRESENTACIÓN COMERCIAL (PowerPoint/Keynote)
+**Estructura requerida:**
+- Slide 1: Portada impactante con logo y tagline
+- Slide 2: "El problema que enfrentan las agencias hoy"
+- Slide 3: "Nuestra solución en 60 segundos"
+- Slide 4: Demo visual del producto (screenshots)
+- Slide 5: Beneficios tangibles y ROI
+- Slide 6: Casos de uso específicos
+- Slide 7: Planes y precios
+- Slide 8: "Prueba gratuita de 30 días"
+- Slide 9: Próximos pasos y contacto
+
+**Estilo visual:**
+- Colores: Azul profesional, blanco, toques de naranja
+- Tipografía: Moderna pero legible
+- Imágenes: Profesionales del sector turístico
+- Iconos: Minimalistas y claros
+- Gráficos: Datos de ROI y ahorro de tiempo
+
+### 2. FOLLETO COMERCIAL (PDF)
+**Formato:** A4, 2 páginas (frente y dorso)
+**Contenido:**
+- Portada: Título impactante + imagen de agencia trabajando
+- Interior: Beneficios clave, proceso simple, testimonios
+- Contraportada: Precios, contacto, call-to-action
+
+### 3. INFOGRAFÍA DIGITAL
+**Tema:** "De 4 horas a 15 minutos: Cómo revolucionar tu agencia"
+**Elementos:**
+- Timeline del proceso tradicional vs con IA
+- Estadísticas de ahorro de tiempo y dinero
+- Iconos representativos de cada funcionalidad
+- Colores corporativos consistentes
+
+### 4. SCRIPT PARA VIDEO EXPLICATIVO (60-90 segundos)
+**Estructura:**
+- 0-10s: Hook - "¿Cuánto tiempo tardas en crear un itinerario?"
+- 10-30s: Problema - Mostrar agente estresado creando itinerario
+- 30-60s: Solución - Demo rápida del producto
+- 60-90s: Call-to-action - Prueba gratuita
+
+### 5. POSTS PARA LINKEDIN (5 posts)
+**Post 1:** Estadística impactante sobre tiempo perdido
+**Post 2:** Caso de uso específico con antes/después
+**Post 3:** Beneficios para el cliente final de la agencia
+**Post 4:** Comparación con métodos tradicionales
+**Post 5:** Invitación a demo gratuita
+
+### 6. EMAIL DE PROSPECCIÓN
+**Asunto:** "¿4 horas para crear un itinerario? Nosotros lo hacemos en 15 minutos"
+**Estructura:**
+- Personalización con nombre de la agencia
+- Identificación del problema específico
+- Propuesta de valor clara
+- Prueba social (si existe)
+- Call-to-action específico (demo de 30 minutos)
+
+## TONO Y ESTILO
+
+**Tono:** Profesional pero cercano, consultivo, orientado a resultados
+**Evitar:** Tecnicismos, jerga de IA, promesas exageradas
+**Enfatizar:** Ahorro de tiempo, mejora de calidad, ROI tangible
+**Lenguaje:** Directo, con datos concretos, orientado a beneficios
+
+## ELEMENTOS VISUALES ESPECÍFICOS
+
+**Imágenes sugeridas:**
+- Agentes de viaje trabajando en oficina moderna
+- Clientes satisfechos recibiendo itinerarios
+- Mapas y destinos turísticos atractivos
+- Gráficos de ahorro de tiempo y dinero
+- Screenshots del producto en uso
+
+**Iconos necesarios:**
+- Reloj (ahorro de tiempo)
+- Euro (ahorro de dinero)
+- Mapa (itinerarios)
+- Estrella (calidad)
+- Gráfico ascendente (crecimiento)
+- Escudo (confianza)
+
+## CASOS DE USO ESPECÍFICOS A DESTACAR
+
+1. **Agencia familiar:** "Viajes Martínez pasó de atender 20 a 50 clientes/mes"
+2. **Temporada alta:** "En julio, crearon 200 itinerarios sin contratar personal extra"
+3. **Cliente exigente:** "Itinerario para luna de miel en Japón listo en 15 minutos"
+4. **Presupuesto ajustado:** "Viaje familiar a Italia por €1,200, optimizado automáticamente"
+
+## CALL-TO-ACTIONS ESPECÍFICOS
+
+- "Solicita tu demo gratuita de 30 minutos"
+- "Prueba gratis durante 30 días, sin compromiso"
+- "Descubre cómo ahorrar 20 horas semanales"
+- "Únete a las agencias que ya revolucionaron su negocio"
+
+## DATOS Y ESTADÍSTICAS A INCLUIR
+
+- "Reduce 85% el tiempo de creación de itinerarios"
+- "ROI del 500% en el primer mes"
+- "Clientes 3x más satisfechos con itinerarios detallados"
+- "Ahorra €600/mes en costos operativos"
+
+Genera todo este material manteniendo coherencia visual y de mensaje, adaptado específicamente para agencias de viaje españolas, con un enfoque en resultados tangibles y prueba sin riesgo.
